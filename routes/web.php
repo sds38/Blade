@@ -27,3 +27,7 @@ Route::get('contact', function()
     return View::make('pages.contact');
 
 });
+Route::post('/', function()
+{
+    return View::make('pages.home');
+});
