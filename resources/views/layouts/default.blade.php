@@ -4,6 +4,9 @@
     @include('includes.head')
 </head>
 <body>
+<main roles="main">
+    @yield('content')
+</main>
 <div class="container">
 
     <header class="row">

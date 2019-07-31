@@ -1,1 +1,3 @@
-<div id="copyright text-right">© Copyright 2013 Scotchy Scotch Scotch</div>
+<footer class="container">
+    <p>&copy; Company 2017-2018</p>
+</footer>
